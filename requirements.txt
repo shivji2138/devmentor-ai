@@ -1,0 +1,5 @@
+typer>=0.9.0
+rich>=13.0.0
+python-dotenv>=1.0.0
+groq>=0.4.0
+# Note: hindsight is mock-integrated internally for this hackathon demo
